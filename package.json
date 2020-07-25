@@ -1,13 +1,21 @@
 {
   "name": "react-tunes-player-types",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "This is the react-tunes-player types declaration generator.",
+  "main": "src/index.js",
+  "types": "src/index.d.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Muzikayise Flynn Buthelezi (zuluCoda)",
+  "contributors": [
+    {
+      "name": "Muzikayise Flynn Buthelezi (zuluCoda)",
+      "email": "muzi@mfbproject.co.za",
+      "url": "https://mfbproject.co.za"
+    }
+  ],
   "license": "ISC",
   "dependencies": {
     "prop-types": "^15.7.2",
